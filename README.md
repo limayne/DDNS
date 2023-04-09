@@ -1,7 +1,7 @@
 # DDNS
 A DDNS tool for CN dynamic ipv6 servers, using DNSPods service.
 
-——————————————————————————————
+-----------------------------------------------
 
 Current features
 - None (Still in Progress)
