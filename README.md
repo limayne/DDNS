@@ -7,11 +7,12 @@ Current features
 - None (Still in Progress)
 
 Future Modifications
-- Input Token
-- Input domain & sub-domain
-- Input net device
+- Input Token into .conf
+- Input domain & sub-domain into .conf
+- Input net device into .conf
+- Add selection to show current .conf
 - Check curl & jq status and install
-- set cron task function to enable auto DDNS
+- set cron task function/maybe systemctl service to enable pendulum DDNS
 - support other DNS providers
 - golangized
 
