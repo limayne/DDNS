@@ -12,6 +12,7 @@ Future Modifications
 - Input net device
 - Check curl & jq status and install
 - set cron task function to enable auto DDNS
+- support other DNS providers
 - golangized
 
 -----------------------------------------------
