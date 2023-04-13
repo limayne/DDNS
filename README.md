@@ -7,9 +7,9 @@ Current features
 - None (Still in Progress)
 
 Future Modifications
-- Input Token into .conf
-- Input domain & sub-domain into .conf
-- Input net device into .conf
+- Input specified token into .conf
+- Input specified domain & sub-domain into .conf
+- Input specified net device into .conf
 - Add selection to show current .conf
 - Check curl & jq status and install
 - set cron task function/maybe systemctl service to enable pendulum DDNS
