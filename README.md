@@ -30,6 +30,7 @@ Running
 - Get a domain for DDNS your dynamic ipv6 server
 - Set your domain and subdomain name on DNSPods, set it to a random ipv6 (will be automatically updated afterwards)
 - Get DNSPods API token
+- Specify all the variables above by entering shell file and changing the lines on the very top
 - sh DDNS.sh
 - input token and your domain/subdomain name
 - Done. Try access your server by subdomain name!
