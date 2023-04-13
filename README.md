@@ -4,7 +4,7 @@ A DDNS tool for CN dynamic ipv6 servers, using DNSPods service.
 -----------------------------------------------
 
 Current features
-- None (Still in Progress)
+- (Still in Progress)
 
 Future Modifications
 - Input specified token into .conf
@@ -40,3 +40,4 @@ Running
 
 Quick Troubleshooting
 - not atm
+- 请使用ipv6的宝子们记得把光猫的ipv6spi防火墙关了！不然访问不到哦！
