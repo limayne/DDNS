@@ -4,7 +4,7 @@ A DDNS tool for dynamic ipv6 servers, using DNSPods service.
 -----------------------------------------------
 
 Current features
-- (Still in Progress)
+- Basic usages (Still in Progress)
 
 Future Modifications
 - Input specified token into .conf
