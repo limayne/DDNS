@@ -66,7 +66,7 @@ ddns_check() {
                 return 1
             fi
         fi
-        echo "Last IP is the same as current, no action."
+        echo "No IP change since your last IP record"
         return 0
     fi
     echo ${last_ip}
