@@ -7,9 +7,9 @@ MAIL="mayne.info"
 PASS="lenovo"
 NETDEVICE="wlp3s0"
 
-#Get local real IPv6 address
+#Get local real IPv6 address, currently get second address as the first one sometimes corrupts and not know why
 ip_address() {
-    ip addr show dev ${NETDEVICE} | sed -e's/^.*inet6 \([^ ]*\)\/.*$/\1/;t;d' | awk 'NR==1'
+    ip addr show dev ${NETDEVICE} | sed -e's/^.*inet6 \([^ ]*\)\/.*$/\1/;t;d' | awk 'NR==2'
 }
 echo "Local IPv6: $(ip_address)"
 
