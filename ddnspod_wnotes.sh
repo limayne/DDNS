@@ -2,7 +2,7 @@
 
 #Variables here
 RECORD_TYPE='AAAA'
-TOKEN="401929,4c68dd7029d33dcc2bf0ca7cadd58413"
+TOKEN="your,token"
 MAIL="mayne.info"
 PASS="lenovo"
 NETDEVICE="wlp3s0"
