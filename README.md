@@ -34,7 +34,7 @@ Running
 - sh DDNS.sh
 - input token and your domain/subdomain name
 - Done. Try access your server by subdomain name!
-- Maybe auto task it will be a better choice but I'm still working on it
+- Use crontab -e for now to pendulum update
 
 -----------------------------------------------
 
